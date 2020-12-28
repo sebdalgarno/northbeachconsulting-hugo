@@ -68,7 +68,7 @@ email: "seb@northbeachconsulting.ca"
 highlight_name: false
 ---
 
-## I build tools and web applications that help you visualize, navigate, and analyze your data. 
+## I build tools and web applications to visualize, navigate, and analyze your data. 
 
 ## Let's chat about your great ideas!
 
