@@ -29,6 +29,6 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Databases"
+  name = "Database Design"
   description = "SQLite, PostgreSQL"
 +++

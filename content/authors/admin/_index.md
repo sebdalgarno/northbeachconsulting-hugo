@@ -14,7 +14,7 @@ organizations:
   url: https://www.northbeachconsulting.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Owner of North Beach Consulting.
+bio: North Beach Consulting
 
 # Interests to show in About widget
 #interests:
@@ -68,6 +68,8 @@ email: "seb@northbeachconsulting.ca"
 highlight_name: false
 ---
 
-North Beach Consulting specializes in creation of web maps, interactive data visualizations, Shiny apps, R packages and database design. 
+## I build tools and web applications that help you visualize, navigate, and analyze your data. 
+
+## Let's chat about your great ideas!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
