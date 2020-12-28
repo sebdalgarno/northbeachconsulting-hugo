@@ -52,7 +52,7 @@ experience:
     location: Guelph, Ontario
     date_start: '2014-09-01'
     date_end: '2016-09-01'
-    description: Species distribution modeling, conservation, Black Oystercatcher ecology
+    description: Species distribution modeling, GIS, avian conservation and ecology
     
   - title: Research Intern
     company: Wildlife Conservation Society
