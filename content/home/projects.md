@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Past Projects
-subtitle: ''
+title: Prior Work
+subtitle: 'I have developed over 20 web apps for data visualization/analysis and (co)developed over 10 R packages including 2 published to CRAN. Here is a selection of some of them:'
 
 content:
   # Page type to display. E.g. project.
