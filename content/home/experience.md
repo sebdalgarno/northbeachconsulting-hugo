@@ -22,24 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Computational Biologist
+    company: Poisson Consulting
+    company_url: 'https://www.poissonconsulting.ca/'
+    location: Masset, British Columbia
+    date_start: '2017-06-01'
+    date_end: '2020-09-01'
     description: |2-
-        Responsibilities include:
+        * Database design
+        * Data visualization
+        * GIS
+        * Shiny app and R package development
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Msc. Student
+    company: University of Guelph
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Guelph, Ontario
+    date_start: '2014-09-01'
+    date_end: '2016-09-01'
+    description: Studied species distribution modeling.
 ---

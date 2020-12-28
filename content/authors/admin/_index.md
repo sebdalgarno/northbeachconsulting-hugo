@@ -18,10 +18,9 @@ bio: Owner of North Beach Consulting.
 
 # Interests to show in About widget
 interests:
-- Web mapping
-- Interactive data visualization
-- R packages
+- Web maps
 - Shiny apps
+- R packages
 
 # Education to show in About widget
 education:
@@ -68,8 +67,8 @@ email: "seb@northbeachconsulting.ca"
 highlight_name: false
 ---
 
-I like to build web applications for interactive data visualization and data analysis. I use many tools to accomplish this (e.g. R,  Shiny, Javascript, Svelte, Mapbox, Mapbox GL, pancake.js, QGIS) and often work with spatial data. I am a skilled R programmer with experience building R packages, cleaning/tidying data and managing/creating SQLite and PostgreSQL databases.
+I build web applications for mapping or interactively visualizing data. I am also a skilled R programmer with experience building R packages, Shiny applications and designing databases.
 
-Outside of my consulting work, I am a PhD student in the Freshwater Fish Ecology lab at University of Northern British Columbia. My research involves the use of Bayesian inference to study fish movement from acoustic telemetry data.
+Outside of consulting, I am a PhD student in the Freshwater Fish Ecology lab at the University of Northern British Columbia. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
