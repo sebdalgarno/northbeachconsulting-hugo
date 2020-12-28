@@ -93,7 +93,7 @@ email = "seb@northbeachconsulting.ca"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "355 Sangan Drive", city = "Masset", region = "BC", postcode = "V)T 1M0", country = "Canada", country_code = "CA"}
+address = {street = "355 Sangan Drive", city = "Masset", region = "BC", postcode = "V0T 1M0", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -196,9 +196,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 3
+  publication_view = 3
+  talk_view = 3
 
 ############################
 ## Comments

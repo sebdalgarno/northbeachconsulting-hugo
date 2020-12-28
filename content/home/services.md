@@ -17,18 +17,24 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Web Development"
-  description = "Web maps, interactive data visualization"  
+  name = "Shiny Apps"
+  description = ""  
+
+[[feature]]
+  icon = "map"
+  icon_pack = "fas"
+  name = "Web Maps"
+  description = "" 
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "R packages, Shiny apps"
+  name = "R Packages"
+  description = ""
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Database Design"
-  description = "SQLite, PostgreSQL"
+  name = "Databases"
+  description = ""
 +++
