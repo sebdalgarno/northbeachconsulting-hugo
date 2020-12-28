@@ -71,5 +71,3 @@ highlight_name: false
 ## I build tools and web applications that help you visualize, navigate, and analyze your data. 
 
 ## Let's chat about your great ideas!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
