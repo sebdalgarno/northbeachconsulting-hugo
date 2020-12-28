@@ -319,10 +319,10 @@
   
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "355 Sangan Drive",
+    "streetAddress": "",
     "addressLocality": "Masset",
     "addressRegion": "BC",
-    "postalCode": "V0T 1M0",
+    "postalCode": "",
     "addressCountry": "CA"
   },
   
@@ -836,7 +836,7 @@
 
     <div class="article-style">
       <h2 id="i-build-tools-and-web-applications-to-visualize-navigate-and-analyze-your-data">I build tools and web applications to visualize, navigate, and analyze your data.</h2>
-<h2 id="lets-chat-about-your-great-ideas">Let&rsquo;s chat about your great ideas!</h2>
+<h2 id="lets-chat-about-your-ideas">Let&rsquo;s chat about your ideas!</h2>
 
     </div>
 
@@ -2128,11 +2128,10 @@
     
     
       
-      
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/f/test"  >
+      <form name="contact" method="POST" netlify netlify-honeypot="welcome-bot" >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -2146,6 +2145,11 @@
           <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
         </div>
         
+          <div class="d-none">
+            <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
+          </div>
+          
+        
         <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
       </form>
     </div>
@@ -2153,11 +2157,6 @@
 
   <ul class="fa-ul">
 
-    
-    <li>
-      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-      <span id="person-email"><a href="mailto:seb@northbeachconsulting.ca">seb@northbeachconsulting.ca</a></span>
-    </li>
     
 
     
@@ -2167,7 +2166,7 @@
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">355 Sangan Drive, Masset, BC V0T 1M0</span>
+        <span id="person-address">Masset, BC </span>
       </li>
     
 

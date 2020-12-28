@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "seb@northbeachconsulting.ca"
+email = ""
 #phone = "250 626 8978"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "355 Sangan Drive", city = "Masset", region = "BC", postcode = "V0T 1M0", country = "Canada", country_code = "CA"}
+address = {street = "", city = "Masset", region = "BC", postcode = "", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
