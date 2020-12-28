@@ -11,7 +11,7 @@ headless: true
 weight: 60
 
 title: Prior Work
-subtitle: 'I have developed over 20 web apps for data visualization/analysis and (co)developed over 10 R packages including 2 published to CRAN. Here is a selection of some of them:'
+subtitle: 'I have developed > 20 web apps for data visualization/analysis and > 10 R packages. Here is a selection:'
 
 content:
   # Page type to display. E.g. project.
