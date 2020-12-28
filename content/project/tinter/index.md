@@ -1,12 +1,12 @@
 ---
-title: fwapgr
-summary: An R client for the fwapg pg-featureserv web API used to get data from the BC Freshwater Atlas.
+title: Tinter
+summary: An R package for generating shades and tints of a colour.
 tags:
 - R Package
-date: "2020-09-20T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://poissonconsulting.github.io/fwapgr/
+external_link: https://github.com/sebdalgarno/tinter
 
 image:
   caption: 

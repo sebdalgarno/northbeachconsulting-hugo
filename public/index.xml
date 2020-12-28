@@ -83,14 +83,6 @@
     </item>
     
     <item>
-      <title>Shinyssdtools</title>
-      <link>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Peachland-Trepanier Logging History</title>
       <link>https://ecstatic-swirles-39c784.netlify.app/project/peachland-map/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -107,18 +99,26 @@
     </item>
     
     <item>
-      <title>fwapgr</title>
-      <link>https://ecstatic-swirles-39c784.netlify.app/project/tinter/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecstatic-swirles-39c784.netlify.app/project/tinter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Haida Gwaii Logging History</title>
       <link>https://ecstatic-swirles-39c784.netlify.app/project/hg-logging/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://ecstatic-swirles-39c784.netlify.app/project/hg-logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shinyssdtools</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tinter</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/tinter/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/tinter/</guid>
       <description></description>
     </item>
     
@@ -150,7 +150,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-921567438&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-916583247&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -160,7 +160,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-921567438&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-916583247&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
