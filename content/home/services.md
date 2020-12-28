@@ -21,7 +21,7 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "map"
+  icon = "map-marker"
   icon_pack = "fas"
   name = "Web Maps"
   description = "" 
@@ -36,5 +36,17 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Databases"
+  description = ""
+
+[[feature]]
+  icon = "map"
+  icon_pack = "fas"
+  name = "GIS"
+  description = ""
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "DataViz"
   description = ""
 +++
