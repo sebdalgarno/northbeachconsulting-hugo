@@ -6,29 +6,30 @@ title: Seb Dalgarno
 superuser: true
 
 # Role/position/tagline
-role: Consultant
+role: Owner
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University Northern British Columbia
-  url: https://www.ffishlab.ca/
+- name: North Beach Consulting
+  url: https://www.northbeachconsulting.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computational Biologist specializing in web development, data visualization, GIS and databases.
+bio: Owner of North Beach Consulting.
 
 # Interests to show in About widget
 interests:
-- R
-- Web Development
-- Acoustic telemetry and fish movement
+- Web mapping
+- Interactive data visualization
+- R packages
+- Shiny apps
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Natural Resource and Environmental Studies
+  - course: PhD in Natural Resources and Environmental Studies
     institution: University of Northern British Columbia
-    year: 2020
-  - course: MSc in Biogeography
+    year: 2020 (ongoing)
+  - course: MSc in Geography
     institution: University of Guelph
     year: 2016
   - course: BSc in Forest Conservation
@@ -67,6 +68,8 @@ email: "seb@northbeachconsulting.ca"
 highlight_name: false
 ---
 
-Seb Dalgarno is a PhD student at the Freshwater Fish Ecology lab at University of Northern British Columbia. His research interests include fish movement, acoustic telemetry, Bayesian inference and interactive data visualization. His consulting work focuses on web development (Shiny, web mapping), R package development and database management (SQLite, PostgreSQL).
+I like to build web applications for interactive data visualization and data analysis. I use many tools to accomplish this (e.g. R,  Shiny, Javascript, Svelte, Mapbox, Mapbox GL, pancake.js, QGIS) and often work with spatial data. I am a skilled R programmer with experience building R packages, cleaning/tidying data and managing/creating SQLite and PostgreSQL databases.
+
+Outside of my consulting work, I am a PhD student in the Freshwater Fish Ecology lab at University of Northern British Columbia. My research involves the use of Bayesian inference to study fish movement from acoustic telemetry data.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
