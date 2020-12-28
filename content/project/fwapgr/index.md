@@ -1,5 +1,5 @@
 ---
-title: fwapgr
+title: Fwapgr
 summary: An R client for the fwapg pg-featureserv web API used to get data from the BC Freshwater Atlas.
 tags:
 - R Package
