@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
 title: Experience
 subtitle:
@@ -22,17 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: University of Northern British Columbia
+    company_url: 'https://www.ffishlab.ca/'
+    location: Masset, British Columbia
+    date_start: '2020-09-01'
+    date_end: ''
+    description: Acoustic telemetry, fish movement, Bayesian inference, White Sturgeon conservation
+    
   - title: Computational Biologist
     company: Poisson Consulting
     company_url: 'https://www.poissonconsulting.ca/'
     location: Masset, British Columbia
     date_start: '2017-06-01'
     date_end: '2020-09-01'
-    description: |2-
-        * Database design
-        * Data visualization
-        * GIS
-        * Shiny app and R package development
+    description: Database design, data visualization, GIS, Shiny app and R package development
+
+  - title: Consultant
+    company: Self-employed
+    company_url: ''
+    location: Masset, British Columbia
+    date_start: '2016-09-01'
+    date_end: '2017-06-01'
+    description: GIS, statistical analysis
         
   - title: Msc. Student
     company: University of Guelph
@@ -40,5 +52,13 @@ experience:
     location: Guelph, Ontario
     date_start: '2014-09-01'
     date_end: '2016-09-01'
-    description: Studied species distribution modeling.
+    description: Species distribution modeling, conservation, Black Oystercatcher ecology
+    
+  - title: Research Intern
+    company: Wildlife Conservation Society
+    company_url: 'https://png.wcs.org/'
+    location: Manus, Papua New Guinea
+    date_start: '2012-09-01'
+    date_end: '2014-09-01'
+    description: REDD+, forest conservation, remote fieldwork
 ---

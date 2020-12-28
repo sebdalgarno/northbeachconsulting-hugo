@@ -17,23 +17,24 @@ organizations:
 bio: Owner of North Beach Consulting.
 
 # Interests to show in About widget
-interests:
-- Web maps
-- Shiny apps
-- R packages
+#interests:
+#- Web maps
+#- Shiny apps
+#- R packages
+#- Databases
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Natural Resources and Environmental Studies
-    institution: University of Northern British Columbia
-    year: 2020 (ongoing)
-  - course: MSc in Geography
-    institution: University of Guelph
-    year: 2016
-  - course: BSc in Forest Conservation
-    institution: University of Toronto
-    year: 2011
+#education:
+#  courses:
+#  - course: PhD in Natural Resources and Environmental Studies
+#    institution: University of Northern British Columbia
+#    year: 2020 (ongoing)
+#  - course: MSc in Geography
+#    institution: University of Guelph
+#    year: 2016
+#  - course: BSc in Forest Conservation
+#    institution: University of Toronto
+#    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,8 +68,6 @@ email: "seb@northbeachconsulting.ca"
 highlight_name: false
 ---
 
-I build web applications for mapping or interactively visualizing data. I am also a skilled R programmer with experience building R packages, Shiny applications and designing databases.
-
-Outside of consulting, I am a PhD student in the Freshwater Fish Ecology lab at the University of Northern British Columbia. 
+North Beach Consulting specializes in creation of web maps, interactive data visualizations, Shiny apps, R packages and database design. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
