@@ -46,7 +46,7 @@ experience:
     date_end: '2017-06-01'
     description: GIS, statistical analysis
         
-  - title: Msc. Student
+  - title: Msc Student
     company: University of Guelph
     company_url: ''
     location: Guelph, Ontario
