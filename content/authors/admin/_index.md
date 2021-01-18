@@ -70,7 +70,7 @@ highlight_name: false
 
 ## I build tools and web applications to visualize, navigate, and analyze your data. 
 
-## Let's chat about your ideas!
+## [Let's chat](/#contact) about your ideas!
 
 Check out [my blog](https://fishydata.netlify.app) for more info.
 
