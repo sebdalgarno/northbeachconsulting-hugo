@@ -72,4 +72,6 @@ highlight_name: false
 
 ## Let's chat about your ideas!
 
+Check out [my blog](https://fishydata.netlify.app) for more info.
+
 

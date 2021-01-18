@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 
 title: Prior Work
 subtitle: 'I have developed > 20 web apps for data visualization/analysis and > 10 R packages. Here is a selection:'
