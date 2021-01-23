@@ -72,6 +72,6 @@ highlight_name: false
 
 ## [Let's chat](/#contact) about your ideas!
 
-Check out [my blog](https://fishydata.netlify.app) for more info.
+Check out my blog [Fishy Data](https://fishydata.netlify.app)
 
 
